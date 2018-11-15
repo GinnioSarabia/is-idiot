@@ -1,0 +1,25 @@
+{
+  "name": "is-idiot",
+  "version": "1.0.0",
+  "description": "Simple package which returns true if someone is an idiot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabixdev/is-idiot.git"
+  },
+  "keywords": [
+    "is-odd",
+    "is-number",
+    "idiot",
+    "test"
+  ],
+  "author": "gabixdev",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/gabixdev/is-idiot/issues"
+  },
+  "homepage": "https://github.com/gabixdev/is-idiot#readme"
+}
