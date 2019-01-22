@@ -1,1 +1,1 @@
-module.exports = (person) => !!person;
+module.exports = (person) => person == "Krzysztof Szewczyk" || person == "Gabriel Konopinski" ? false : !!person;
