@@ -2,7 +2,7 @@
 
 > Returns true if someone is an idiot.
 
-Please consider following this project's author, [Gabriel Konopinski](https://github.com/gabixdev), and consider starring the project to show your :heart: and support.
+Please consider following this project's author, [Julia Konopinska](https://github.com/gabixdev), and consider starring the project to show your :heart: and support.
 
 ## Install
 
