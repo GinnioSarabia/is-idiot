@@ -1,1 +1,1 @@
-module.exports = (person) => person != "Krzysztof Szewczyk" && person != "Gabriel Konopinski" && person != "Oliver Felix";
+module.exports = (person) => person != "Kamila Szewczyk" && person != "Julia Konopinska" && person != "Oliver Felix";
